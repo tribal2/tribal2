@@ -110,3 +110,18 @@ may. 2008 - ago. 2008
 ## Universidad Tecnológica de Panamá
 ### BS, Electrical and Electronic Engineering
 2002 - 2006
+
+# Volunteering
+
+## Rotary Club of David
+
+- **President**. _jul. 2022_
+- **President elect**. _jul. 2021 - jun. 2022_
+- **Secretary** _jul. 2020 - jun. 2021_
+- **Youth and Education Chair** _jul. 2019 - jun. 2020_
+
+## Rotary District 4240 (Costa Rica, El Salvador, Nicaragua and Panama)
+
+- **Disctrict Youth Exchange Chair**. _jul. 2020_
+- **District New Generations Service Exchange Chair**. _jul. 2022_
+- **District Alumni Chair**. _jul. 2022_
