@@ -44,17 +44,17 @@ sept. 2014 - current
 
 - Independently managed the full development life cycle of several systems  and applications, encompassing requirement gathering, planning, design,  full-stack development, testing, CI/CD deployment, training, support,  and continuous improvement. Some highlighted projects include:
 
-  - HR administration system: Payroll calculations, PTO and leave management, report generation  and execution of remote processes. Bridge to communicate with biometric clocks. Technologies: Docker, PHP 8 (Slim4), Typescript  (AngularJS, NodeJS), MySQL (Percona & ProxySQL), REST, Nginx, RabbitMQ, Gitlab CI, Traefik.
+  - HR administration system: Payroll calculations, PTO and leave management, report generation  and execution of remote processes. Bridge to communicate with biometric clocks. **Technologies**: Docker, PHP 8 (Slim4), Typescript  (AngularJS, NodeJS), MySQL (Percona & ProxySQL), REST, Nginx, RabbitMQ, Gitlab CI, Traefik.
 
-  - Asset Management System: Enabled inventory control, asset registration, depreciation calculations, and report generation. Technologies: Docker, PHP 8 (Slim4), Typescript  (AngularJS), MySQL (Percona & ProxySQL), REST, Nginx, Gitlab CI, Traefik.
+  - Asset Management System: Enabled inventory control, asset registration, depreciation calculations, and report generation. **Technologies**: Docker, PHP 8 (Slim4), Typescript  (AngularJS), MySQL (Percona & ProxySQL), REST, Nginx, Gitlab CI, Traefik.
 
-  - Android application for inventory PDA barcode scanners: inventory taking tasks. Integrated with the Asset Management System API. Technologies: Flutter
+  - Android application for inventory PDA barcode scanners: inventory taking tasks. Integrated with the Asset Management System API. **Technologies**: Flutter
 
-  - Warehouse management and procurement system: Standardized product catalogs, optimized request workflows, ensured  adequate stock levels, and managed goods received from external vendors. Technologies: PHP 5 (Slim3), Javascript  (AngularJS), MySQL, REST, Apache.
+  - Warehouse management and procurement system: Standardized product catalogs, optimized request workflows, ensured  adequate stock levels, and managed goods received from external vendors. **Technologies**: PHP 5 (Slim3), Javascript  (AngularJS), MySQL, REST, Apache.
 
-  - Employee performance evaluation system: Facilitated regular assessments, bonus computations, and report  creation. Managed personal data including roles, departments, and  salaries. Technologies: PHP 5, Javascript (JQuery), MySQL, Apache.
+  - Employee performance evaluation system: Facilitated regular assessments, bonus computations, and report  creation. Managed personal data including roles, departments, and  salaries. **Technologies**: PHP 5, Javascript (JQuery), MySQL, Apache.
 
-  - Credit/debit card sales reconciliation system: Processed transaction files, reconciled over 2000 daily operations, and generated comprehensive reports. Technologies: Python
+  - Credit/debit card sales reconciliation system: Processed transaction files, reconciled over 2000 daily operations, and generated comprehensive reports. **Technologies**: Python
 
 - Implemented a private code repository using GitLab CE and set up GitLab Runner on external servers for CI jobs.
 
@@ -65,7 +65,7 @@ jun. 2012 - sept. 2014
 
 - Led the price update process that allowed the institution's income to increase by more than $15M/year. This process included all stages: data collection, meetings with large clients, analysis, preparation of models and scenarios, presentation for approval by the Board of Directors and the Board of Ministers, preparation of educational material, staff training and execution.
 
-- Developed an online calculator so that any user could calculate the cost of their registration based on the new rates without having to come to the institution. Technologies: Javascript (Jquery), PHP 5
+- Developed an online calculator so that any user could calculate the cost of their registration based on the new rates without having to come to the institution. **Technologies**: Javascript (Jquery), PHP 5
 
 
 ## Intermaritime Certification Services
