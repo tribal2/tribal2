@@ -18,9 +18,12 @@ Here are some ideas to get you started:
 Results-driven Full-stack Web Developer and Entrepreneur with an MBA.  Renowned for strong analytical, strategic thinking, and a meticulous  approach to work. Extensive experience in administrative software  development, financial processes, and business operations. Showcases a  profound background in sales, finance, consulting, and leading financial  initiatives that have resulted in significant revenue growth. Brings a  unique perspective to roles, driven by a passion for efficient and  productive workflows. Proven ability to work effectively with diverse  teams across multiple sectors, having represented ministries in  international settings and collaborated with global consultancies.  Committed to community service and has actively volunteered with Rotary International, further reflecting dedication to leadership and societal  contribution. An asset poised to drive organizational success, uniting  technical expertise with interdisciplinary skills.
 
 
+
 # Work experience
 
+
 ## FullStack Panama (Developers Community)
+
 ### Founder and Co-Administrator
 dec. 2020 - current
 
@@ -35,6 +38,7 @@ Collaborate with other tech communities to support their activities and encourag
 
 
 ## Registro Público de Panamá
+
 ### Full Stack Developer
 sept. 2014 - current
 
@@ -56,7 +60,16 @@ sept. 2014 - current
 
 - Oversaw various servers (Ubuntu, CentOS, Oracle Linux), installing and optimizing services such as Proxmox, Traefik, Samba, N8n, Minio, and more.
 
+### Financial Advisor
+jun. 2012 - sept. 2014
+
+- Led the price update process that allowed the institution's income to increase by more than $15M/year. This process included all stages: data collection, meetings with large clients, analysis, preparation of models and scenarios, presentation for approval by the Board of Directors and the Board of Ministers, preparation of educational material, staff training and execution.
+
+- Developed an online calculator so that any user could calculate the cost of their registration based on the new rates without having to come to the institution. Technologies: Javascript (Jquery), PHP 5
+
+
 ## Intermaritime Certification Services
+
 ### Full Stack Developer
 dec. 2022 - feb.2023
 
@@ -66,13 +79,6 @@ dec. 2022 - feb.2023
 
 - Set up DevContainers for various codebases to streamline the  onboarding process for new developers, ensuring a consistent development  environment. **Tecnologies**: Docker, VS Code.
 
-## Registro Público de Panamá
-### Financial Advisor
-jun. 2012 - sept. 2014
-
-- Led the price update process that allowed the institution's income to increase by more than $15M/year. This process included all stages: data collection, meetings with large clients, analysis, preparation of models and scenarios, presentation for approval by the Board of Directors and the Board of Ministers, preparation of educational material, staff training and execution.
-
-- Developed an online calculator so that any user could calculate the cost of their registration based on the new rates without having to come to the institution. Technologies: Javascript (Jquery), PHP 5
 
 
 # Volunteering
