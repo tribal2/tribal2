@@ -12,35 +12,37 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Ricardo Tribaldos
-###  MBA, entrepreneur, full stack web developer
-
-Results-driven Full-stack Web Developer and Entrepreneur with an MBA.  Renowned for strong analytical, strategic thinking, and a meticulous  approach to work. Extensive experience in administrative software  development, financial processes, and business operations. Showcases a  profound background in sales, finance, consulting, and leading financial  initiatives that have resulted in significant revenue growth. Brings a  unique perspective to roles, driven by a passion for efficient and  productive workflows. Proven ability to work effectively with diverse  teams across multiple sectors, having represented ministries in  international settings and collaborated with global consultancies.  Committed to community service and has actively volunteered with Rotary International, further reflecting dedication to leadership and societal  contribution. An asset poised to drive organizational success, uniting  technical expertise with interdisciplinary skills.
+## 🙋‍♂️ Hi!, I'm Ricardo
+### a full stack web developer 💻, MBA 🎓 and entrepreneur 🚀 from Panama 🇵🇦
 
 
-
-# Work experience
-
-
-## FullStack Panama (Developers Community)
-
-### Founder and Co-Administrator
-dec. 2020 - current
-
-- Founded and co-manage a vibrant developer community with 110+ active members, emphasizing knowledge sharing, collaborative projects, and professional growth.
-
-- Spearhead support initiatives, facilitating member-to-member assistance and fostering a culture of mutual growth and mentorship.
-
-- Regularly organize and coordinate "Xopa Mundo" online meetings, providing an informal platform for members to discuss a wide array of industry-related topics.
-Collaborate with other tech communities to support their activities and encourage inter-community engagement.
-
-- Currently coordinating a group trip to Colombia for members to attend JSConf, showcasing our community's commitment to continuous learning and international networking.
+🎯 Results-driven Full-stack Web Developer and Entrepreneur with an MBA.  Renowned for strong analytical, strategic thinking, and a meticulous  approach to work. Extensive experience in administrative software  development, financial processes, and business operations. Showcases a  profound background in sales, finance, consulting, and leading financial  initiatives that have resulted in significant revenue growth. Brings a  unique perspective to roles, driven by a passion for efficient and  productive workflows. Proven ability to work effectively with diverse  teams across multiple sectors, having represented ministries in  international settings and collaborated with global consultancies.  Committed to community service and has actively volunteered with Rotary International, further reflecting dedication to leadership and societal  contribution. An asset poised to drive organizational success, uniting  technical expertise with interdisciplinary skills.
 
 
-## Registro Público de Panamá
 
-### Full Stack Developer
-sept. 2014 - current
+# 💼 Work experience
+
+
+## 🌍 FullStack Panama (Developers Community)
+
+### 🧑‍🚀 Founder and Co-Administrator
+📅 dec. 2020 - current
+
+- 🏢 Founded and co-manage a vibrant developer community with 110+ active members, emphasizing knowledge sharing, collaborative projects, and professional growth.
+
+- 💡 Spearhead support initiatives, facilitating member-to-member assistance and fostering a culture of mutual growth and mentorship.
+
+- 📣 Regularly organize and coordinate "Xopa Mundo" online meetings, providing an informal platform for members to discuss a wide array of industry-related topics.
+
+- 🤝 Collaborate with other tech communities to support their activities and encourage inter-community engagement.
+
+- ✈️ Currently coordinating a group trip to Colombia for members to attend JSConf, showcasing our community's commitment to continuous learning and international networking.
+
+
+## 📖 Registro Público de Panamá
+
+### 🖥 Full Stack Developer
+📅 sept. 2014 - current
 
 - Independently managed the full development life cycle of several systems  and applications, encompassing requirement gathering, planning, design,  full-stack development, testing, CI/CD deployment, training, support,  and continuous improvement. Some highlighted projects include:
 
@@ -60,18 +62,18 @@ sept. 2014 - current
 
 - Oversaw various servers (Ubuntu, CentOS, Oracle Linux), installing and optimizing services such as Proxmox, Traefik, Samba, N8n, Minio, and more.
 
-### Financial Advisor
-jun. 2012 - sept. 2014
+### 💹 Financial Advisor
+📅 jun. 2012 - sept. 2014
 
-- Led the price update process that allowed the institution's income to increase by more than $15M/year. This process included all stages: data collection, meetings with large clients, analysis, preparation of models and scenarios, presentation for approval by the Board of Directors and the Board of Ministers, preparation of educational material, staff training and execution.
+- Led the price update process that allowed the institution's income to increase by more than $15M/year. This process included all stages: data collection, meetings with large clients, analysis, preparation of models and scenarios, presentation for approval by the Board of Directors and the Board of Ministers, preparation of educational material, staff training and execution.  **Technologies**: Excel, Powerpoint, SQL
 
 - Developed an online calculator so that any user could calculate the cost of their registration based on the new rates without having to come to the institution. **Technologies**: Javascript (Jquery), PHP 5
 
 
-## Intermaritime Certification Services
+## 🚢 Intermaritime Certification Services
 
-### Full Stack Developer
-dec. 2022 - feb.2023
+### 🖥 Full Stack Developer
+📅 dec. 2022 - feb.2023
 
 - Designed a RESTful API to manage MS Word templates and facilitate  document generation using those templates in multiple formats derived  from the given data. **Tecnologies**: Docker, PHP 8 (Slim4), REST, Nginx.
 
@@ -81,9 +83,9 @@ dec. 2022 - feb.2023
 
 
 
-# Volunteering
+# 🌐 Volunteering
 
-## Rotary Club of David
+## 🤲💙 Rotary Club of David
 
 - **PR Chair**. _jul. 2023_
 - **President**. _jul. 2022 - jun. 2023_
@@ -92,7 +94,7 @@ dec. 2022 - feb.2023
 - **CTO and Webmaster**. _jul. 2020_
 - **Youth and Education Chair**. _jul. 2019 - jun. 2020_
 
-## Rotary International - District 4240 (Costa Rica, El Salvador, Nicaragua and Panama)
+## 🤲💙 Rotary International - District 4240 (Costa Rica, El Salvador, Nicaragua and Panama)
 
 - **District Internt and Communications Officer**. _jul. 2023_
 - **Disctrict Youth Exchange Chair**. _jul. 2020_
