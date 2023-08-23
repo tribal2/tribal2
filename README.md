@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ### 🖥 Full Stack Developer
 📅 sept. 2014 - _current_
 
-- Independently managed the full development life cycle of several systems  and applications, encompassing requirement gathering, planning, design,  full-stack development, testing, CI/CD deployment, training, support,  and continuous improvement. Some highlighted projects include:
+- Independently oversaw the full development life cycle of several systems  and applications, encompassing requirement gathering, planning, design,  full-stack development, testing, CI/CD deployment, training, support,  and continuous improvement. Some highlighted projects include:
 
   - HR administration system: Payroll calculations, PTO and leave management, report generation  and execution of remote processes. Bridge to communicate with biometric clocks. **Technologies**: Docker, PHP 8 (Slim4), Typescript  (AngularJS, NodeJS), MySQL (Percona & ProxySQL), REST, Nginx, RabbitMQ, Gitlab CI, Traefik.
 
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 - Implemented a private code repository using GitLab CE and set up GitLab Runner on external servers for CI jobs.
 
-- Oversaw various servers (Ubuntu, CentOS, Oracle Linux), installing and optimizing services such as Proxmox, Traefik, Samba, N8n, Minio, and more.
+- Supervised the maintenance and operation of various servers (Ubuntu, CentOS, RHEL), installing and optimizing services such as Proxmox, Traefik, Samba, N8n, Minio, and more.
 
 ### 💹 Financial Advisor
 📅 jun. 2012 - sept. 2014
@@ -59,13 +59,18 @@ Here are some ideas to get you started:
 ### 🖥 Full Stack Developer
 📅 dec. 2022 - feb.2023
 
-- Designed a RESTful API to manage MS Word templates and facilitate  document generation using those templates in multiple formats derived  from the given data. **Tecnologies**: Docker, PHP 8 (Slim4), REST, Nginx.
+- Architected a RESTful API to manage MS Word templates and facilitate  document generation using those templates in multiple formats derived  from the given data. **Tecnologies**: Docker, PHP 8 (Slim4), REST, Nginx.
 
 - Refined the existing backend by optimizing SQL  queries, crafting SQL views to simplify the current codebase, and  seamlessly integrating with the newly developed API for comprehensive  template management and document creation. **Tecnologies**: SQL, Javascript (Vue, AdonisJS).
 
 - Set up DevContainers for various codebases to streamline the  onboarding process for new developers, ensuring a consistent development  environment. **Tecnologies**: Docker, VS Code.
 
+# 💼 Additional Relevant Experience
 
+- **Founder and Owner**, Rick's, David, Panama | 02/2013 - 12/2021: Full leadership in operational and financial management of the company.
+- **Financial Advisor**, Registro Público de Panamá | 06/2012 - 09/2014: Led a pricing update process that resulted in an annual revenue increase of over $15M.
+- **Financial Analyst**, Ministry of Economy and Finance, Panama City | 06/2009 - 06/2012: Actively involved in devising and structuring fiscal reforms and strategic projects.
+- **Consultant**, Banco Nacional de Costa Rica | 10/2008 - 12/2008: Developed compensation and performance management models for Branch Managers.
 
 # 🌐 Volunteering
 
