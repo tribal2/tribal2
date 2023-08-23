@@ -42,16 +42,11 @@ Here are some ideas to get you started:
 
   - Credit/debit card sales reconciliation system: Processed transaction files, reconciled over 2000 daily operations, and generated comprehensive reports. **Technologies**: Python
 
+  - Online calculator: enabling users to accurately estimate registration costs based on the institution's updated fee structure. **Technologies**: Javascript (Jquery), PHP 5, MySQL.
+
 - Implemented a private code repository using GitLab CE and set up GitLab Runner on external servers for CI jobs.
 
 - Supervised the maintenance and operation of various servers (Ubuntu, CentOS, RHEL), installing and optimizing services such as Proxmox, Traefik, Samba, N8n, Minio, and more.
-
-### 💹 Financial Advisor
-📅 jun. 2012 - sept. 2014
-
-- Led the price update process that allowed the institution's income to increase by more than $15M/year. This process included all stages: data collection, meetings with large clients, analysis, preparation of models and scenarios, presentation for approval by the Board of Directors and the Board of Ministers, preparation of educational material, staff training and execution.  **Technologies**: Excel, Powerpoint, SQL
-
-- Developed an online calculator so that any user could calculate the cost of their registration based on the new rates without having to come to the institution. **Technologies**: Javascript (Jquery), PHP 5
 
 
 ## 🚢 Intermaritime Certification Services
