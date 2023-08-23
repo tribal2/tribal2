@@ -23,26 +23,10 @@ Here are some ideas to get you started:
 # 💼 Work experience
 
 
-## 🌍 FullStack Panama (Developers Community)
-
-### 🧑‍🚀 Founder and Co-Administrator
-📅 dec. 2020 - current
-
-- 🏢 Founded and co-manage a vibrant developer community with 110+ active members, emphasizing knowledge sharing, collaborative projects, and professional growth.
-
-- 💡 Spearhead support initiatives, facilitating member-to-member assistance and fostering a culture of mutual growth and mentorship.
-
-- 📣 Regularly organize and coordinate "Xopa Mundo" online meetings, providing an informal platform for members to discuss a wide array of industry-related topics.
-
-- 🤝 Collaborate with other tech communities to support their activities and encourage inter-community engagement.
-
-- ✈️ Currently coordinating a group trip to Colombia for members to attend JSConf, showcasing our community's commitment to continuous learning and international networking.
-
-
 ## 📖 Registro Público de Panamá
 
 ### 🖥 Full Stack Developer
-📅 sept. 2014 - current
+📅 sept. 2014 - _current_
 
 - Independently managed the full development life cycle of several systems  and applications, encompassing requirement gathering, planning, design,  full-stack development, testing, CI/CD deployment, training, support,  and continuous improvement. Some highlighted projects include:
 
@@ -84,6 +68,12 @@ Here are some ideas to get you started:
 
 
 # 🌐 Volunteering
+
+## 🌍 FullStack Panama (Developers Community)
+**Founder** _dec. 2020 - current_
+
+- 🤝 Established and manage a dynamic developer community of 120+ members, promoting knowledge sharing and professional growth.
+- 📣 Organized periodic online meet-ups to discuss a wide array of industry-related topics and coordinated collaborative efforts, including international trips for continuous learning.
 
 ## 🤲💙 Rotary Club of David
 
