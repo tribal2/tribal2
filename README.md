@@ -90,3 +90,9 @@ Here are some ideas to get you started:
 - **Disctrict Youth Exchange Chair**. _jul. 2020_
 - **District New Generations Service Exchange Chair**. _jul. 2022_
 - **District Alumni Chair**. _jul. 2022_
+
+&nbsp;
+
+---
+
+# [📄💾 Download my resume here!](https://github.com/tribal2/my-resume/blob/main/ricardo-tribaldos-full-stack-developer-resume.pdf)
