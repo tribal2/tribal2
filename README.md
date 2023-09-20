@@ -1,48 +1,36 @@
-<!--
-**tribal2/tribal2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ## 🙋‍♂️ Hi!, I'm Ricardo
 ### a full stack web developer 💻, MBA 🎓 and entrepreneur 🚀 from Panama 🇵🇦
 
 
-🎯 Results-driven Full-stack Web Developer and Entrepreneur with an MBA.  Renowned for strong analytical, strategic thinking, and a meticulous  approach to work. Extensive experience in administrative software  development, financial processes, and business operations. Showcases a  profound background in sales, finance, consulting, and leading financial  initiatives that have resulted in significant revenue growth. Brings a  unique perspective to roles, driven by a passion for efficient and  productive workflows. Proven ability to work effectively with diverse  teams across multiple sectors, having represented ministries in  international settings and collaborated with global consultancies.  Committed to community service and has actively volunteered with Rotary International, further reflecting dedication to leadership and societal  contribution. An asset poised to drive organizational success, uniting  technical expertise with interdisciplinary skills.
+🎯 Seasoned Full-stack Web Developer and Entrepreneur with an MBA and over a decade of remote work expertise, operating efficiently with minimal supervision. Renowned for meticulous analytical skills, strategic insights, and a systematic approach to challenges. Extensive experience in administrative software development, financial processes, and business operations. Showcases a profound background in sales, finance, consulting, and leading financial initiatives that have resulted in significant revenue growth. Brings a unique perspective to roles, driven by a passion for efficient and productive workflows. Proven ability to work effectively with diverse teams across multiple sectors, having represented ministries in international settings and collaborated with global consultancies. Actively committed to community service, further reflecting dedication to leadership and societal contribution. A multidimensional professional, harmonizing technical prowess with holistic interdisciplinary competencies.
 
 
 
 # 💼 Work experience
 
 
-## 📖 Registro Público de Panamá
+## 📖 Panama Public Records Bureau (Registro Público de Panamá)
 
 ### 🖥 Full Stack Developer
 📅 sept. 2014 - _current_
 
-- Independently oversaw the full development life cycle of several systems  and applications, encompassing requirement gathering, planning, design,  full-stack development, testing, CI/CD deployment, training, support,  and continuous improvement. Some highlighted projects include:
+- Spearheaded the end-to-end development journey of multiple systems and applications, from requirement identification and strategic planning to comprehensive full-stack development. Led rigorous testing, streamlined CI/CD deployment, hands-on training, dedicated support, and iterative enhancements. Some highlighted projects include:
 
-  - HR administration system: Payroll calculations, PTO and leave management, report generation  and execution of remote processes. Bridge to communicate with biometric clocks. **Technologies**: Docker, PHP 8 (Slim4), Typescript  (AngularJS, NodeJS), MySQL (Percona & ProxySQL), REST, Nginx, RabbitMQ, Gitlab CI, Traefik.
+  - **HR administration system**: Transitioned from paper-based processes to an online system, significantly reducing manual HR registration efforts. Optimized payroll, PTO, leave management and reporting while introducing automated document generation, accelerating departmental operations.
 
-  - Asset Management System: Enabled inventory control, asset registration, depreciation calculations, and report generation. **Technologies**: Docker, PHP 8 (Slim4), Typescript  (AngularJS), MySQL (Percona & ProxySQL), REST, Nginx, Gitlab CI, Traefik.
+  - **Integration with Biometric Attendance Devices**: Implemented the TCP/UDP communication protocol of these devices in JavaScript to build a REST API, streamlining communication and data capture.
 
-  - Android application for inventory PDA barcode scanners: inventory taking tasks. Integrated with the Asset Management System API. **Technologies**: Flutter
+  - **Asset Management System**: Enabled inventory control, asset registration, depreciation calculations, and report generation.
 
-  - Warehouse management and procurement system: Standardized product catalogs, optimized request workflows, ensured  adequate stock levels, and managed goods received from external vendors. **Technologies**: PHP 5 (Slim3), Javascript  (AngularJS), MySQL, REST, Apache.
+  - **Asset Tracking & Audit Mobile Tool**: Developed an intuitive Android application tailored for PDA barcode scanners, streamlining inventory audits. The solution not only reduced the time taken and minimized errors but also enabled on-the-spot corrections, and the capability to capture images of assets. Seamlessly integrated with the Asset Management System API.
 
-  - Employee performance evaluation system: Facilitated regular assessments, bonus computations, and report  creation. Managed personal data including roles, departments, and  salaries. **Technologies**: PHP 5, Javascript (JQuery), MySQL, Apache.
+  - **Warehouse management and procurement system**: Standardized product catalogs, optimized request workflows, ensured adequate stock levels, and managed goods received from external vendors.
 
-  - Credit/debit card sales reconciliation system: Processed transaction files, reconciled over 2000 daily operations, and generated comprehensive reports. **Technologies**: Python
+  - **Employee performance evaluation system**: Facilitated regular assessments, bonus computations, and report creation. Managed personal data including roles, departments, and salaries.
 
-  - Online calculator: enabling users to accurately estimate registration costs based on the institution's updated fee structure. **Technologies**: Javascript (Jquery), PHP 5, MySQL.
+  - **Credit/debit card sales reconciliation system**: Processed transaction files, reconciled over 2000 daily operations, and generated comprehensive reports.
+
+  - **Expense calculator**: Designed and deployed a user-centric online calculator, empowering clients to precisely project their expenses by leveraging the institution's updated fee structure.
 
 - Implemented a private code repository using GitLab CE and set up GitLab Runner on external servers for CI jobs.
 
@@ -54,16 +42,19 @@ Here are some ideas to get you started:
 ### 🖥 Full Stack Developer
 📅 dec. 2022 - feb.2023
 
-- Architected a RESTful API to manage MS Word templates and facilitate  document generation using those templates in multiple formats derived  from the given data. **Tecnologies**: Docker, PHP 8 (Slim4), REST, Nginx.
+- Architected a RESTful API to manage MS Word templates and facilitate document generation using those templates in multiple formats derived from the given data.
 
-- Refined the existing backend by optimizing SQL  queries, crafting SQL views to simplify the current codebase, and  seamlessly integrating with the newly developed API for comprehensive  template management and document creation. **Tecnologies**: SQL, Javascript (Vue, AdonisJS).
+- Refined the existing backend by optimizing SQL queries, crafting SQL views to simplify the current codebase, and seamlessly integrating with the newly developed API for comprehensive template management and document creation.
 
-- Set up DevContainers for various codebases to streamline the  onboarding process for new developers, ensuring a consistent development  environment. **Tecnologies**: Docker, VS Code.
+- Established DevContainers for various codebases to streamline the onboarding process for new developers, ensuring a consistent development environment.
+
+# 🤖 Technologies
+Javascript, Typescript, PHP, Dart, AngularJS, Flutter, Vue, Node.js, Express.js, NestJS, Linux, Docker, MySQL, RabbitMQ, GitlabCI, Nginx, Traefik, SQL, REST, CI/CD.
 
 # 💼 Additional Relevant Experience
 
 - **Founder and Owner**, Rick's, David, Panama | 02/2013 - 12/2021: Full leadership in operational and financial management of the company.
-- **Financial Advisor**, Registro Público de Panamá | 06/2012 - 09/2014: Led a pricing update process that resulted in an annual revenue increase of over $15M.
+- **Financial Advisor**, Panama Public Records Bureau (Registro Público de Panamá) | 06/2012 - 09/2014: Led a pricing update process that resulted in an annual revenue increase of over $15M.
 - **Financial Analyst**, Ministry of Economy and Finance, Panama City | 06/2009 - 06/2012: Actively involved in devising and structuring fiscal reforms and strategic projects.
 - **Consultant**, Banco Nacional de Costa Rica | 10/2008 - 12/2008: Developed compensation and performance management models for Branch Managers.
 
