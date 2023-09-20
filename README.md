@@ -87,3 +87,10 @@ Javascript, Typescript, PHP, Dart, AngularJS, Flutter, Vue, Node.js, Express.js,
 ---
 
 # [📄💾 Download my resume here!](https://github.com/tribal2/my-resume/blob/main/ricardo-tribaldos-full-stack-developer-resume.pdf)
+
+&nbsp;
+
+# 📓 Passionate about Notion!
+I'm a huge fan of optimizing workflows and knowledge management with Notion. If you're as enthusiastic about it as I am and you love to travel, check out Journey Master - the ultimate Notion template for organizing your trips. [Elevate your travel planning game here!](https://tribal2.gumroad.com/l/journeymaster-notion-travel-template) 👇
+
+[![JourneyMaster Template](images/notion-journeymaster.webP)](https://tribal2.gumroad.com/l/journeymaster-notion-travel-template)
